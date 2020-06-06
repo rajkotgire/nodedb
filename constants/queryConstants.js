@@ -6,3 +6,4 @@ module.exports = queryConstant;
 
 // new dev commit
 // new dev commit 3
+// Added hotfix comment 2

@@ -3,3 +3,5 @@ const queryConstant = {
 }
 
 module.exports = queryConstant;
+
+// Added hotfix comment 2

@@ -10,3 +10,7 @@ const appConfig = {
 module.exports = appConfig;
 
 // Added hotfix comment 1
+
+// Added hotfix comment 2
+
+// Added hotfix comment 3

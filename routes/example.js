@@ -12,6 +12,7 @@ router.use('/',(req,res,next)=>{
 })
 
 router.get('/', function (req, res) {
+  // new dev commit 3
   // Added hotfix comment 2
   // Added hotfix comment 3
   console.log( " Query : "+QUERY.SELECT_ALL_BILL_TYPES);
@@ -22,6 +23,9 @@ router.get('/', function (req, res) {
     });
  res.send('subroute home page');
 })
+
+//Add New Route Here 
+// new dev commit 3
 // define the about route
 router.get('/about', function (req, res) {
   res.send('subroute about page');

@@ -8,3 +8,5 @@ const appConfig = {
 }
 
 module.exports = appConfig;
+
+// Added hotfix comment 1
